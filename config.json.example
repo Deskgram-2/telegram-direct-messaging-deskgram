@@ -1,0 +1,25 @@
+{
+  "module": "spam_pm",
+  "campaign_name": "warm-outreach",
+  "threads": 8,
+  "accounts_per_run": 10,
+  "message_mode": "text_with_ai_rewrite",
+  "message_template": "Здравствуйте. Есть идея, которая может быть вам полезна.",
+  "limits": {
+    "messages_per_account": 25,
+    "global_messages_limit": 300
+  },
+  "delays": {
+    "between_messages_sec": [35, 80],
+    "between_threads_sec": [5, 15]
+  },
+  "autoresponder": {
+    "enabled": true,
+    "max_replies_per_dialog": 3
+  },
+  "ai": {
+    "enabled": true,
+    "provider": "openai",
+    "goal": "Делать текст чуть более живым и менее шаблонным"
+  }
+}
