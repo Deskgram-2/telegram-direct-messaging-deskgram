@@ -4,7 +4,14 @@
 
 `Рассылка в ЛС` — это модуль Deskgram 2 для массовой отправки сообщений в личные чаты Telegram. Он объединяет многопоточность, лимиты, задержки, автоответчик, AI-генерацию текста и понятный контроль за ходом кампании.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/app-demo/functions/spam_pm)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/app-demo/functions/spam_pm)
+
+
 
 ## Кратко о модуле
 
